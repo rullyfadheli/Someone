@@ -84,7 +84,7 @@ body{
 .main-content .header {
    width: 720px;
    height: 480px;
-   background: url(./resource/cloud.jpg);
+   background: url(cloud.jpg);
 }
 
 .main-content .name {
