@@ -84,7 +84,7 @@ body{
 .main-content .header {
    width: 720px;
    height: 480px;
-   background: ('cloud.jpg');
+   background: url('cloud.jpg');
 
 }
 
@@ -188,7 +188,7 @@ body{
    z-index: 5;
    width: 23em;
    height: 250px;
-   background: ('windmill\ body.png');
+   background: url('windmill\ body.png');
 }
 
 .sub-content .windmill .windmill-body .blade {
