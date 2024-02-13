@@ -188,7 +188,7 @@ body{
    z-index: 5;
    width: 23em;
    height: 250px;
-   background: url(https://drive.google.com/file/d/1T3gzOjIXyRkK5hgHxEhVIlv56I90-Tbb/view?usp=drive_link);
+   background: ('windmill\ body.png');
 }
 
 .sub-content .windmill .windmill-body .blade {
