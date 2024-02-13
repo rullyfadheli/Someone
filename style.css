@@ -187,7 +187,7 @@ body{
    z-index: 5;
    width: 23em;
    height: 250px;
-   background: url(./resource/windmill\ body.png);
+   background: url(windmill\ body.png);
 }
 
 .sub-content .windmill .windmill-body .blade {
