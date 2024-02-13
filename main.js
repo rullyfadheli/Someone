@@ -1,6 +1,6 @@
 // Audio autoplay
 
-const backgroundaudio = new Audio("./resource/Sempurna.mp3");
+const backgroundaudio = new Audio("Sempurna.mp3");
 
 backgroundaudio.loop = true;
 
